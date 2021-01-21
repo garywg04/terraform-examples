@@ -1,0 +1,1 @@
+This repository contains sample Terraform configurations.
